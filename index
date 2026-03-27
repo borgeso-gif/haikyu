@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url=intent:#Intent;package=com.garena.game.haikyu;scheme=google.com;end">
+</head>
+<body>
+    <script>
+        window.location.href = "intent:#Intent;package=com.garena.game.haikyu;scheme=google.com;end";
+    </script>
+</body>
+</html>
